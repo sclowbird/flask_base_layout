@@ -11,3 +11,4 @@ build/
 mo/webapp/static/node_modules
 TODO
 migrations
+.vscode
